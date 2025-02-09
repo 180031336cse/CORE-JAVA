@@ -15,6 +15,7 @@ CORE JAVA
 # NOW JDK Compiles .java file ->to-> .class file, now JRE which contains JVM (java virtual machine)  uses .class file (byte code) converts into machine code.
 
 --------------- JDK + JRE  + JVM --------------------
+
 Final Flow Summary:
 1️⃣ JDK (Java Development Kit)
 
