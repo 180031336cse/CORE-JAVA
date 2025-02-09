@@ -6,7 +6,7 @@ Welcome to the CORE-JAVA!
 CORE JAVA
 
 #  When a programmar writes JAVA code - it creates (File_Name.java) .java file.
-#  After Running a command in terminal - Javac File_Name.java, It creates (File_Name.class) .class file is nothing Byte Code (which can be run on any where by JVM=JAVA VIRTUAL MACHINE).
+#  After Running a command in terminal - Javac File_Name.java, It creates (File_Name.class) .class file is nothing but a Byte Code (which can be run on any where by JVM=JAVA VIRTUAL MACHINE).
 # JVM is platform dependent because it has to run on specific os only (if we download macos JVM in Windows it wont work) and JVM calls for "main" method in JAVA CODE, from there it will start execution.
 # But Byte code is platform independent it can be run on anywhere.
 #  JDK = JAVA DEVELOPMENT KIT contains => JRE => JVM + Libraries.
