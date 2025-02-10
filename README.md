@@ -72,5 +72,6 @@ Literals are categorized into different types based on the kind of data they rep
 Since literals are directly specified in the code, they do not require computation or evaluation at runtime.
 
 
- 
+ :::::::TYPE CONVERSION AND CASTING:::
+ 1. 
    
