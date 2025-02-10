@@ -91,6 +91,8 @@ Performed manually by the programmer using a cast operator.
 Happens when a larger data type is converted into a smaller data type.
 May cause data loss.
 <img width="649" alt="Screenshot 2025-02-11 at 12 57 41 AM" src="https://github.com/user-attachments/assets/4e9dfba9-e505-4811-92f2-71ec3bb8f056" />
+<img width="950" alt="Screenshot 2025-02-11 at 1 06 30 AM" src="https://github.com/user-attachments/assets/e22cebc7-c46a-4056-abcb-e92238e18a9c" />
+
 
 
 
