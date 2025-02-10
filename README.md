@@ -73,5 +73,28 @@ Since literals are directly specified in the code, they do not require computati
 
 
  :::::::TYPE CONVERSION AND CASTING:::
- 1. 
+ 1. Type casting is the process of explicitly converting a variable from one data type to another. This is done using casting operators or functions provided by the programming language.
+    <img width="780" alt="Screenshot 2025-02-11 at 12 55 45 AM" src="https://github.com/user-attachments/assets/93a127fe-2703-4726-92ef-086cff0d927a" />
+
+   * Type Conversion vs. Type Casting
+Both Type Conversion and Type Casting involve changing one data type into another, but they differ in how and when the conversion happens.
+
+1. Type Conversion (Implicit Conversion or Widening Conversion)
+Automatically performed by the compiler.
+Happens when a smaller data type is converted into a larger data type.
+No data loss occurs.
+<img width="621" alt="Screenshot 2025-02-11 at 12 57 18 AM" src="https://github.com/user-attachments/assets/ed9169a8-30f8-4a70-ae9f-f950b94c8620" />
+
+
+2. Type Casting (Explicit Conversion or Narrowing Conversion)
+Performed manually by the programmer using a cast operator.
+Happens when a larger data type is converted into a smaller data type.
+May cause data loss.
+<img width="649" alt="Screenshot 2025-02-11 at 12 57 41 AM" src="https://github.com/user-attachments/assets/4e9dfba9-e505-4811-92f2-71ec3bb8f056" />
+
+
+
+
+
+
    
