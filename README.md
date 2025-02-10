@@ -46,3 +46,31 @@ These libraries are developed and maintained by Oracle Corporation (previously b
 They are bundled with the Java SE (Standard Edition) and are part of every JRE distribution.
 3️⃣ How Does JRE Access These Libraries?
 When a Java program runs, the JVM automatically loads required libraries from the JRE’s runtime environment.
+
+
+
+DATA TYPE 
+1. PRIMITIVE
+2. NON PRIMITIVE.
+
+1. PRIMITIVE DATA TYPES
+   *byte by = 127;
+   *short s = 558;
+   *INTEGER int a = 100;
+   
+   *FLOAT float a = 100.100f;
+   *DOUBLE double a = 100.100;
+   * long l = 50000l;
+     
+   *char Grade = 'A'; (We have to use single Quotes to represent 'char')
+   * String name = "lokesh"; (We have to use double Quotes to represent "string")
+   * boolean. b = true;  (it will either stores true or false).
+
+  Definition of Literals in Java
+A literal in Java is a fixed value assigned directly to a variable in the source code. It represents a constant and does not change during program execution.
+Literals are categorized into different types based on the kind of data they represent, such as integer literals, floating-point literals, character literals, string literals, boolean literals, and null literals.
+Since literals are directly specified in the code, they do not require computation or evaluation at runtime.
+
+
+ 
+   
